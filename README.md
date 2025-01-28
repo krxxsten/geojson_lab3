@@ -1,1 +1,2 @@
-# geojson_lab3
+# LAB 3: Geojson
+## Hospitals in Washington State
